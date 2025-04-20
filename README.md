@@ -1,4 +1,4 @@
-# Unified Messaging Gateway
+# Unified Messaging API
 Xii Group UMG allow to send and seceive Whatsapp and SMS messages from any system.
 
 ## Sample PHP Usage
