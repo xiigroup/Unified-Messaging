@@ -9,7 +9,7 @@ Replace **DOMAIN** , **API_USERNAME** & **API_KEY** with your API user Informati
 require_once('umg.php');
 $umg = new umg("DOMAIN", "API_USERNAME", "API_KEY");
 $payload = [
-'endpoint'=>'sms',
+'endpoint'=>'sms', //to send whasapp replace with **whatsapp**
 'action'=>'send',
 'nid'=>'23',
 'to'=>'2701234567',
@@ -21,7 +21,7 @@ $response = $umg->execute();
 print_r($response);
 ```
 
-# Sample response
+# Sample response SMS
 ```
 ```json
 {
