@@ -22,6 +22,8 @@ print_r($response);
 ```
 
 # Sample response SMS
+The following response you receive after send a message using the above sample.
+
 ```
 ```json
 {
