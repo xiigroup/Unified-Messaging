@@ -6,7 +6,7 @@ This sample php code send an sms message and returns the response in json. to se
 Replace **DOMAIN** , **API_USERNAME** & **API_KEY** with your API user Information.
 
 ```<?php
-require_once('umg.php');
+require_once('umgateway.php');
 $umg = new umg("DOMAIN", "API_USERNAME", "API_KEY");
 $payload = [
 'endpoint'=>'sms', //replace sms with whatsapp to send whatsapp
