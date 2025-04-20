@@ -2,7 +2,7 @@
 UMG, Send and Receive Whatsapp and SMS messages from any system.
 
 # Sample PHP Usage
-This sample php code send an sms message and returns the response in json. to send a whatsapp message replace  sms with **whatsapp**
+This sample php code send an sms message and returns the response in json. to send a whatsapp message replace sms with **whatsapp**, response of sms and whatsapp is not the same.
 Replace **DOMAIN** , **API_USERNAME** & **API_KEY** with your API user Information.
 
 ```<?php
@@ -42,4 +42,5 @@ The following response you receive after send a message using the above sample, 
 }
 ```
 
-For all api payloads key and values [Check wiki](https://github.com/xiigroup/messaging/wiki)
+For all api payloads definitions [Check wiki](https://github.com/xiigroup/messaging/wiki)
+Request your credentials [Contact sales](https://xiigroup.co.za/#contact)
