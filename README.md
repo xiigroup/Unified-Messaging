@@ -21,7 +21,7 @@ $response = $umg->execute();
 print_r($response);
 ```
 
-## Sample response SMS
+## [SMS] Sample response
 The following response you receive after send a message using the above sample, please save the **id** and **transaction_id** for later quering important is the message cannot be sent instant.
 
 ```
