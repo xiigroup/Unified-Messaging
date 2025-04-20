@@ -24,7 +24,6 @@ print_r($response);
 ## [SMS] Sample response
 The following response you receive after send a message using the above sample, please save the **id** and **transaction_id** for later quering important is the message cannot be sent instant.
 
-```
 ```json
 {
   "status": "success",
