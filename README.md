@@ -1,5 +1,5 @@
-# Unified Messaging Gateway
-UMG, Send and Receive Whatsapp and SMS messages from any system.
+## Unified Messaging Gateway
+Xii Group UMG allow to send and seceive Whatsapp and SMS messages from any system.
 
 # Sample PHP Usage
 This sample php code send an sms message and returns the response in json. to send a whatsapp message replace sms with **whatsapp**, response of sms and whatsapp is not the same.
@@ -42,5 +42,4 @@ The following response you receive after send a message using the above sample, 
 }
 ```
 
-For all api payloads definitions [Check wiki](https://github.com/xiigroup/messaging/wiki)
-Request your credentials [Contact sales](https://xiigroup.co.za/#contact)
+For all api payloads definitions [Check wiki](https://github.com/xiigroup/messaging/wiki), to request your credentials [Contact sales](https://xiigroup.co.za/#contact)
