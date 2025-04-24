@@ -33,8 +33,6 @@ The following response you receive after send a message using the above sample, 
     "status_code": 1,
     "status_msg": "Received",
     "parts": 1,
-    "country": "ZAF",
-    "network": "Vodacom",
     "transaction_id": "78Pe7RuIGXElgLE.5154",
     "transaction_cost": 0.28
   }
