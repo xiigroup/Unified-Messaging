@@ -33,8 +33,8 @@ The following response you receive after send a message using the above sample, 
     "status_code": 1,
     "status_msg": "Received",
     "parts": 1,
-    "transaction_id": "78Pe7RuIGXElgLE.5154",
-    "transaction_cost": 0.28
+    "tid": "78Pe7RuIGXElgLE.5154",
+    "cost": 0.28
   }
 }
 ```
