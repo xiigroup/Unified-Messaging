@@ -5,7 +5,8 @@ Xii Group Unified Messaging Gateway allow to send and seceive Whatsapp and SMS m
 This sample php code send an sms message and returns the response in json. to send a whatsapp message replace sms with **whatsapp**.
 Replace **DOMAIN** , **API_USERNAME** & **API_KEY** with your API user Information.
 
-```<?php
+```
+<?php
 require_once('umgateway.php');
 $umg = new umg("DOMAIN", "API_USERNAME", "API_KEY");
 $payload = [
