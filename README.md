@@ -1,5 +1,5 @@
-# Unified Messaging API
-Xii Group Unified Messaging Gateway allow to send and seceive Whatsapp and SMS messages from any system through api.
+# Unified Messaging
+Xii Group Unified Messaging Gateway allow to send and seceive Whatsapp and SMS messages from any server through api.
 
 ## Sample PHP Usage
 This sample php code send an sms message and returns the response in json. to send a whatsapp message replace sms with **whatsapp**.
