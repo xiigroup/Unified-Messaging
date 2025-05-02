@@ -12,6 +12,7 @@ $umg = new umg("DOMAIN", "API_USERNAME", "API_KEY");
 $payload = [
 'endpoint'=>'sms', //replace sms with whatsapp to send whatsapp
 'action'=>'send',
+'type'=>'text',
 'nid'=>'23',
 'to'=>'2701234567',
 'name'=>'Sipho Selabe',
