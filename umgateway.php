@@ -1,7 +1,7 @@
 <?php
 class pisp{
-	public function __construct($user=null, $pass=null){
-		$this->url = "https://api.xiigroup.co.za/";
+	public function __construct($url, $user=null, $pass=null){
+		$this->url = "https://$url/";
 		$this->payload = [];
 		$this->authentication = "$user:$pass";
 	}
