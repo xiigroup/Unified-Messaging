@@ -14,7 +14,7 @@ $payload = [
 'action'=>'send',
 'nid'=>'23',
 'to'=>'2701234567',
-'name'=>'Selabe',
+'name'=>'Sipho Selabe',
 'body'=>'Dear client..'
 ];
 $umg->payload($payload);
