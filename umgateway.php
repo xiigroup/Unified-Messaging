@@ -1,5 +1,5 @@
 <?php
-class pisp{
+class umg{
 	public function __construct($url, $user=null, $pass=null){
 		$this->url = "https://$url/";
 		$this->payload = [];
