@@ -16,6 +16,7 @@ $payload = [
 'type'=>'text',
 'nid'=>'23',
 'to'=>'2701234567',
+'from'=>'2701234567', //recommended to use number provided with service
 'name'=>'Sipho Selabe',
 'body'=>'Dear client..'
 ];
